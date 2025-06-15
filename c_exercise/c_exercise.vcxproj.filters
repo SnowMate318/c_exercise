@@ -21,9 +21,15 @@
     <ClCompile Include="bit_operation.c">
       <Filter>소스 파일</Filter>
     </ClCompile>
+    <ClCompile Include="array_pointer.c">
+      <Filter>소스 파일</Filter>
+    </ClCompile>
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="bit_operation.h">
+      <Filter>헤더 파일</Filter>
+    </ClInclude>
+    <ClInclude Include="array_pointer.h">
       <Filter>헤더 파일</Filter>
     </ClInclude>
   </ItemGroup>
